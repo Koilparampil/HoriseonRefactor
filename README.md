@@ -1,6 +1,6 @@
 # 01 HTML, CSS, and Git: Horiseon Code  Refactor
 
-## Your Task
+## The Task
 **Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology. For this particular homework assignment, a marketing agency has hired you to refactor an existing site to make it more accessible. 
 
 ## User Story
@@ -29,11 +29,11 @@ THEN I find a concise, descriptive title
 
 ## Mock-Up
 
-The following image shows the web application's appearance and functionality after the code refacttoring:
+The following image shows the web application's appearance and functionality after the code refactoring:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](HoriseonSiteDemo.png)
 
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
+
 
 The link to the Site is the Following:
 
